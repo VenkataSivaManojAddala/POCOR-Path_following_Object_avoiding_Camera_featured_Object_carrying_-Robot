@@ -1,7 +1,7 @@
 # POCOR-Path_following_Object_avoiding_Camera_featured_Object_carrying_Robot
 
 ## Description
-This is a project that involves a robot built on the ROS2 (Robot Operating System 2) framework with the simulation in gazebo. The robot is designed to perform several tasks including path following, object avoidance, and carrying objects and also has a camera feature to the bot.
+This is a project that involves a robot built on the ROS2 (Robot Operating System 2) framework with the simulation in gazebo. The robot is designed to perform several tasks including path following, object avoidance (using Nav2), and carrying objects and also has a camera feature to the bot.
 
 ## Requirements:
 * Ubuntu 22.04
@@ -22,8 +22,7 @@ Path can be changed by replacing the the above path1.py script file with the res
  
 ## Implementation:
 * Robot model:<br>
-<code><img width = "500" height = "500">![Screenshot from 2023-06-27 19-15-50](https://github.com/VenkataSivaManojAddala/POCOR-Path_following_Object_avoiding_Camera_featured_Object_carrying_-Robot/assets/119154773/c03b558e-14b0-4216-8ac4-e31130e7714a)
-
+<code><img width = "500" height = "500" alt = "Screenshot 2023-06-27 at 19 1550" src="https://github.com/VenkataSivaManojAddala/POCOR-Path_following_Object_avoiding_Camera_featured_Object_carrying_-Robot/assets/119154773/c03b558e-14b0-4216-8ac4-e31130e7714a">
 </code>
 * World:
   <code>![Screenshot from 2023-06-27 19-42-33](https://github.com/VenkataSivaManojAddala/POCOR-Path_following_Object_avoiding_Camera_featured_Object_carrying_-Robot/assets/119154773/c245e5d8-3239-4e37-b4eb-b0fe03f35cd1)
