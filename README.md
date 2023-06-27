@@ -8,5 +8,5 @@ This is a project that involves a robot built on the ROS2 (Robot Operating Syste
 * rviz
 
 ## Process to run the robot:
-Open a
+Open a <br>
 <code> sdua</code>
