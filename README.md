@@ -31,8 +31,8 @@ In the following video, the path is given from the initial pose of the robot to 
 [![YouTube Video](http://img.youtube.com/vi/KBPrTQj0oMI/0.jpg)](https://youtu.be/KBPrTQj0oMI)
 
 ## Real life implementations:
-* Industrial Automation Robot
-* Home cleaning Robot
-* Health care Robot
+* Industrial Automation
+* Home cleaning
+* Health care
 
 
