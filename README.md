@@ -23,8 +23,8 @@ Path can be changed by replacing the the above path1.py script file with the res
 </code>
 
 ## Implementation Image:
-  <code><img width="1184" alt="Screenshot 2023-06-27 at 10 16 07 PM" src="https://github.com/VenkataSivaManojAddala/POCOR-Path_following_Object_avoiding_Camera_featured_Object_carrying_-Robot/assets/119154773/83bdada8-d3ce-468f-a091-b0d397d6b8a1">
-</code>
+<img width="1183" height="690" alt="249225528-83bdada8-d3ce-468f-a091-b0d397d6b8a1" src="https://github.com/user-attachments/assets/62f803d4-b3fa-4145-b900-effa234cd1de" />
+
 
 ## Sample Video of implementation:
 In the following video, the path is given from the initial pose of the robot to post office.<br>
